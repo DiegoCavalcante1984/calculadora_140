@@ -48,4 +48,5 @@ def test_divir_dois_numeros():
 
     resultado_obtido = dividir_dois_numeros(num1, num2)
 
-    assert resultado_esperado == resultado_obtido   
+    assert resultado_esperado == resultado_obtido
+    
