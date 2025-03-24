@@ -1,0 +1,22 @@
+TDD - Teste driven development
+      Desenvolviment Direcionado por Teste
+
+      - o objetivo não é a qualidade do software,embora ajude muito -- engenharia de software
+      - antecipa a construção dos testes de unidade em relação ao proprio desenvolvimento
+      - ter um controle maie efetivo sobre o progresso do projeto -- Gestão de Projetos
+
+      Como seria a rotina de um time que adote o TDD
+
+      - Imaginemos uma Sprint de 1 semana
+      - Segunda de manhã: todos do time se reunem em uma cerimonia chamada sprint Planning
+                            vamos decidir as user stories(estoria do usuário)1 ou várias
+                            vamos escrever tarefas necessarias para realizar o desevolvimento,teste,pesquisa,etc
+                            Termina com um monte de post-its do que tem que ser feito
+
+      - segunda de tarde:PO e QA/Tester vão combinar os critérios de aceitação - cearios de teste
+      - Devs vão criar o esqueeleto do código com as novas funcionalidades para atender as stories
+
+      Como as pessoas sabem o que está ficando pronto na sprint? 
+      --> Reunião Diaria(Daily)-- atualizar kanban 
+      --> atualizar grafico de burn down      
+      https://github.com/DiegoCavalcante1984                 
